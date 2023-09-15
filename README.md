@@ -1,3 +1,3 @@
 # simple-calculator
 
-## Bu da Ali'ye gelsin.
+## just a simple thing
